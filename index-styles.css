@@ -1,6 +1,6 @@
 div {
     background-color: #6e9143;
-    border: dotted #8d5f48;
+    border: dashed #514f16;
 }
 
 h1 {
@@ -8,6 +8,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;  
     position:relative;
     padding-left: 10px;
+    font-style: italic;
 }
 
 a:hover {
