@@ -1,0 +1,22 @@
+div {
+    background-color: #6e9143;
+    border: dotted #8d5f48;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    position:relative;
+    padding-left: 10px;
+}
+
+a:hover {
+    color: #6e9143;
+}
+
+ul {
+    background-color: #F5E8D9;
+    position:relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
