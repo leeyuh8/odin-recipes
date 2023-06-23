@@ -21,18 +21,16 @@ h1 {
 
 ul {
     background-color: #F5E8D9;
+    text-align: center;
 }
 
-.recipe1 {
+li {
     display: inline-block;
 }
 
-.recipe2 {
-    display: inline-block;
-}
-
-.recipe3 {
-    display: inline-block;
+img {
+    width: 150px;
+    display: block;
 }
 
 a:hover {
