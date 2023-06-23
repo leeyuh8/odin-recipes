@@ -4,40 +4,83 @@
     padding: 0;
 }
 
-div {
+body {
     background-color: #F5E8D9;
-    padding-bottom: 50px;
+}
+
+div {
+    width: 900px;
+    margin: 10px auto;
 }
 
 h1 {
     color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;  
-    position:relative;
-    padding-left: 10px;
     font-style: italic;
     background-color: #6e9143;
-    padding-top: 15px;
-    padding-bottom:15px;
+    text-align: center;
+    padding: 10px; 
+    font-size: 50px;
 }
 
 img {
-    width: 400px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    width: 900px;
+    height: 500px;
+    object-fit: cover;
 }
 
-h3 {
+.descrip, .ingredients, .steps {
     color: #6e9143;
     font-size: 25px;
-    margin-bottom: 0;
+    display: inline-block;
+    width: 285px;
+    vertical-align: top;
+    height: 400px;
+    margin: 0;
 }
 
-a:hover {
-    color: #6e9143;
+.ingredients {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+li {
+    margin-left: 1em;
 }
 
 p, ul, ol {
-    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #502c18;
+    font-size: 18px;
 }
+
+a {
+    display: inline-block;
+    background-color: #6e9143;
+    padding: 10px;
+}
+
+a.link-main {
+    margin-right: 661px;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    text-decoration: none;
+    color: white;
+}
+
