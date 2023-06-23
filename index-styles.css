@@ -34,7 +34,7 @@ li {
     margin-bottom: 10px;
     padding: 20px;
     background-color: #fff7f3;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 .recipe2 {
@@ -45,11 +45,29 @@ li {
 img {
     width: 232px;
     display: block;
-    padding-top: 15px;
+    padding-top: 10px;
     margin: 0 auto;
 }
 
-a:hover {
-    color: #6e9143;
+a:visited {
+    text-decoration: none;
+    color: #502c18;
 }
+
+a:link {
+    text-decoration: none;
+    color: #502c18;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #502c18;
+}
+
+a:active {
+    text-decoration: none;
+    color: #502c18;
+}
+
+
 
