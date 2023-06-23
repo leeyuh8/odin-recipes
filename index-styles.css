@@ -4,8 +4,11 @@
     padding: 0;
 }
 
-div {
+body {
     background-color: #F5E8D9;
+}
+
+div {
     width: 900px;
     margin: 10px auto;
 }
@@ -17,23 +20,33 @@ h1 {
     background-color: #6e9143;
     text-align: center;
     padding: 10px; 
+    font-size: 50px;
 }
 
 ul {
-    background-color: #F5E8D9;
     text-align: center;
 }
 
 li {
     display: inline-block;
     border: 3px dotted #6e9143;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 20px;
+    background-color: #fff7f3;
+    font-size: 18px;
+}
+
+.recipe2 {
+    margin-right: 30px;
+    margin-left: 30px;
 }
 
 img {
-    width: 150px;
+    width: 232px;
     display: block;
+    padding-top: 15px;
+    margin: 0 auto;
 }
 
 a:hover {
