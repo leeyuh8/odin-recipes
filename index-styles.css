@@ -13,12 +13,11 @@ div {
 h1 {
     color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;  
-    position:relative;
-    padding-left: 10px;
     font-style: italic;
-    padding-top: 15px;
-    padding-bottom: 15px;
     background-color: #6e9143;
+    text-align: center;
+    padding: 10px; 
+
 }
 
 a:hover {
@@ -27,6 +26,4 @@ a:hover {
 
 ul {
     background-color: #F5E8D9;
-    position:relative;
-    padding-bottom: 20px;
 }
