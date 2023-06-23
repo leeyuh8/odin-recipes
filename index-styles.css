@@ -17,13 +17,25 @@ h1 {
     background-color: #6e9143;
     text-align: center;
     padding: 10px; 
+}
 
+ul {
+    background-color: #F5E8D9;
+}
+
+.recipe1 {
+    display: inline-block;
+}
+
+.recipe2 {
+    display: inline-block;
+}
+
+.recipe3 {
+    display: inline-block;
 }
 
 a:hover {
     color: #6e9143;
 }
 
-ul {
-    background-color: #F5E8D9;
-}
