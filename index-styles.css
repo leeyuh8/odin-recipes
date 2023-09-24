@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    /* outline: red solid 1px; */
 }
 
 body {
@@ -67,6 +68,25 @@ a:hover {
 a:active {
     text-decoration: none;
     color: #502c18;
+}
+
+footer {
+    text-align: center;
+    display: block;
+    color: #502c18;
+}
+
+footer > a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+}
+
+footer > a > img {
+    height: 30px;
+    width: auto;
+    margin-top: -13px;
+    padding-left: 3px;
 }
 
 
