@@ -1,5 +1,5 @@
 # Recipes Page
-[Live Demo](https://leeyuh8.github.io/recipes/)
+[Live Demo](https://strallia.github.io/recipes/)
 
 ## PURPOSE: 
 To practice using HTML foundations, learned from The Odin Project, to make a page that links to three different recipes.
